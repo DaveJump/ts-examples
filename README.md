@@ -1,2 +1,2 @@
-# req-lib-ts
-An request library implement with typescript - ts practice
+# ts-examples
+Basic usage about typescript
